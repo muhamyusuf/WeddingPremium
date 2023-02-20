@@ -1,6 +1,6 @@
 import React, {useState, useRef, useEffect} from 'react';
 import { background } from "../assets/export_image.js";
-import {IoIosCalendar} from "react-icons/Io";
+import {IoIosCalendar} from "react-icons/io";
 import "../style/glass.css";
 
 const Event = () => {
